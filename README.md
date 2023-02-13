@@ -1,1 +1,1 @@
-Notes application with CRUD knowledge using typescript and vite.
+Notes application with CRUD knowledge in vite using Typescript and Bootstrap
